@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    background: url(../img/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.panel {
+  background: white;
+  box-shadow: 0 30px 40px 0 rgba(16,36,94,0.2), inset 0 -10px 0 0 rgba(103,117,161,0.06);
+  padding: 20px 5px;
+  border: 3px solid #333;
+  border-radius: 5px;
+}
+
+.lilcampus { font-weight: normal; font-style: italic; font-size: 0.8em; color: blue;  }
+
+.button { background: white!important; border: 3px solid black !important; color: black!important; }
+
+.deal { background: white; margin: 5px; border: 3px solid black; padding: 5px; }
